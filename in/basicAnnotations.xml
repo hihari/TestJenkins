@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="basicAnnotations">
+
+<test name="Test001">
+<classes>
+<class name="hcl.in.Test001"></class>
+</classes>
+</test>
+<test name="Test002">
+<classes>
+<class name="hcl.in.Test002"></class>
+</classes>
+</test>
+</suite>

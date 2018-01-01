@@ -1,0 +1,18 @@
+2017-12-27 19:59:12,307 -0500 [main] INFO  (Test001.java:19) - Starting Test001
+2017-12-27 19:59:12,358 -0500 [main] INFO  (HomePage.java:25) - Clicking on Signin
+2017-12-27 19:59:13,244 -0500 [main] INFO  (HomePage.java:27) - Clicking on Login
+2017-12-27 22:03:34,948 -0500 [main] INFO  (Test001.java:19) - Starting Test001
+2017-12-27 22:03:35,015 -0500 [main] INFO  (HomePage.java:25) - Clicking on Signin
+2017-12-27 22:03:35,969 -0500 [main] INFO  (HomePage.java:27) - Clicking on Login
+2017-12-27 22:53:01,353 -0500 [main] INFO  (Test001.java:19) - Starting Test001
+2017-12-27 22:53:01,380 -0500 [main] INFO  (HomePage.java:25) - Clicking on Signin
+2017-12-27 22:53:02,880 -0500 [main] INFO  (HomePage.java:27) - Clicking on Login
+2017-12-28 12:12:07,152 -0500 [main] INFO  (Test001.java:19) - Starting Test001
+2017-12-28 12:12:07,233 -0500 [main] INFO  (HomePage.java:26) - Clicking on Signin
+2017-12-28 12:12:08,393 -0500 [main] INFO  (HomePage.java:28) - Clicking on Login
+2017-12-31 13:00:16,451 -0500 [main] INFO  (Test001.java:19) - Starting Test001
+2017-12-31 13:00:16,495 -0500 [main] INFO  (HomePage.java:26) - Clicking on Signin
+2017-12-31 13:00:17,730 -0500 [main] INFO  (HomePage.java:28) - Clicking on Login
+2017-12-31 13:09:31,696 -0500 [main] INFO  (Test001.java:19) - Starting Test001
+2017-12-31 13:09:31,792 -0500 [main] INFO  (HomePage.java:26) - Clicking on Signin
+2017-12-31 13:09:33,055 -0500 [main] INFO  (HomePage.java:28) - Clicking on Login
